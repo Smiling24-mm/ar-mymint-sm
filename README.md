@@ -1,0 +1,2 @@
+# ar-mymint-sm
+-sm-
